@@ -5,6 +5,6 @@
 - xresources
 - scrollback
 
-#### Will add later
+#### To do
+- [x] blinking cursor
 - [ ] font2
-- [ ] blinking cursor
