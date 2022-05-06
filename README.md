@@ -7,4 +7,5 @@
 
 #### To do
 - [x] blinking cursor
-- [ ] font2
+
+I dont think i want to add any more patches
